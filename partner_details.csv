@@ -1,21 +1,22 @@
-Partner Name,Is Acttive Partner,Program Name,Type of Care,Service Line
-98point6 Quest,True,98point6 Quest,Acute Care,CSL
-98point6 Transcarent,True,98point6 Transcarent,Acute Care,Single Parterner Support
-Ada Health,True,Ada Health,Acute Care,CSL
-Adyn,True,Adyn,Acute Care,CSL
-Amazon Clinic,True,Amazon Clinic,Acute Care,CSL
-Bellsant,True,Bellsant,Acute Care,CSL
-Function Health,True,Function Health,Acute Care,CSL
-HealthOme-Live,True,HealthOme-Live,Acute Care,CSL
-KeyCare,True,KeyCare,Acute Care,CSL
-Lemonaid,True,Lemonaid,Primary Care,Single Parterner Support
-Noom,True,Noom B2B,Weight Management,Weight Loss
-Noom,True,Noom DTC,Weight Management,Weight Loss
-Rezilient,True,Rezilient On-Call,Acute Care,CSL
-TruePill,True,TruePill,Acute Care,CSL
-Walgreens Find Care,True,Walgreens Find Care,Acute Care,CSL
-Weekend Health,True,Weekend Health,Single Partner,CSL
-ixlayer,True,ixlayer,Acute Care,CSL
-Futur Health ,True,Futur Health ,Weight Management,Weight Loss
-98point6 Transcarent,True,98point6 Transcarent On-Call,Acute Care,CSL
-Galileo,True,Galileo,Acute Care,Single Parterner Support
+Partner Name,Is Acttive Partner,Program Name,Type of Care,Service Line,Credentialing Partner
+98point6 Quest,TRUE,98point6 Quest,Acute Care,CSL,N/A
+98point6 Transcarent,TRUE,98point6 Transcarent,Acute Care,Single Parterner Support,N/A
+Ada Health,TRUE,Ada Health,Acute Care,CSL,N/A
+Adyn,TRUE,Adyn,Acute Care,CSL,N/A
+Amazon Clinic,TRUE,Amazon Clinic,Acute Care,CSL,N/A
+Bellsant,TRUE,Bellsant,Acute Care,CSL,N/A
+Function Health,TRUE,Function Health,Acute Care,CSL,N/A
+HealthOme-Live,TRUE,HealthOme-Live,Acute Care,CSL,N/A
+KeyCare,TRUE,KeyCare,Acute Care,CSL,Wellspan
+KeyCare,TRUE,KeyCare,Acute Care,CSL,Univ of Chicago
+Lemonaid,TRUE,Lemonaid,Primary Care,Single Parterner Support,N/A
+Noom,TRUE,Noom B2B,Weight Management,Weight Loss,N/A
+Noom,TRUE,Noom DTC,Weight Management,Weight Loss,N/A
+Rezilient,TRUE,Rezilient On-Call,Acute Care,CSL,N/A
+TruePill,TRUE,TruePill,Acute Care,CSL,N/A
+Walgreens Find Care,TRUE,Walgreens Find Care,Acute Care,CSL,N/A
+Weekend Health,TRUE,Weekend Health,Single Partner,CSL,N/A
+ixlayer,TRUE,ixlayer,Acute Care,CSL,N/A
+Futur Health ,TRUE,Futur Health ,Weight Management,Weight Loss,N/A
+98point6 Transcarent,TRUE,98point6 Transcarent On-Call,Acute Care,CSL,N/A
+Galileo,TRUE,Galileo,Acute Care,Single Parterner Support,N/A
